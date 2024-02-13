@@ -1,0 +1,17 @@
+body {
+    background-color: #e67171;
+    content: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.formulario {
+    background-color: rgb(245, 88, 166);
+    border: 10 15 9;
+    border-color: rgb(250, 140, 5) 10px;
+    border-radius: 10%;
+    box-sizing: border-box;
+    box-shadow: #0c0505;
+    box-shadow: #0c0505;
+    box-decoration-break: slice;
+    
+}
